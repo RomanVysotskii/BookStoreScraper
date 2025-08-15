@@ -15,7 +15,7 @@
 
 Результаты работы сохраняются в CSV-файл, который легко открывать в Excel или анализировать программно.
 
-## Установка
+## Установка:
 ```
 git clone https://github.com/RomanVysotskii/BookStoreScraper
 cd project
