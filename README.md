@@ -16,6 +16,8 @@
 Результаты работы сохраняются в CSV-файл, который легко открывать в Excel или анализировать программно.
 
 ## Установка
-```git clone https://github.com/RomanVysotskii/BookStoreScraper
+```
+git clone https://github.com/RomanVysotskii/BookStoreScraper
 cd project
 pip install -r requirements.txt
+```
